@@ -8,7 +8,7 @@ manufacturer = "YinYang"
 chip = "rp2040"
 
 [host]
-vial_enabled = flase
+vial_enabled = false
 
 [matrix]
 matrix_type = "normal"
